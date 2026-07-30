@@ -192,7 +192,7 @@ Tournament Management System built with React.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mhmdhnan2025-cell&theme=algolia&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mhmdhnan2025-cell&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15"/>
 
 </div>
 
