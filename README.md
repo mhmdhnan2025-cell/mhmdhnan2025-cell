@@ -130,7 +130,7 @@ Goal:
 
 # 💭 Favorite Quote
 
-> **"Great software isn't just written. It's engineered with vision."**
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
 
