@@ -171,7 +171,7 @@ Tournament Management System built with React.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=mhmdhnan2025-cell&theme=tokyonight&hide_border=true"/>
+[<img src="https://streak-stats.demolab.com?user=mhmdhnan2025-cell&theme=tokyonight&hide_border=true"/>](https://streak-stats.demolab.com?user=mhmdhnan2025-cell)
 
 </div>
 
