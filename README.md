@@ -1,247 +1,218 @@
+# 💻 Hannan | Full-Stack Developer & AI Enthusiast
+
+```
+╔═══════════════════════════════════════════════════════════╗
+║                                                           ║
+║  🚀 Building AI-powered mobile apps | React Native 🔥   ║
+║  🌍 Open-source contributor | Python & JavaScript hacker║
+║  🎯 Currently crafting: AI Tourism App (Pakistan VR/AR)  ║
+║                                                           ║
+╚═══════════════════════════════════════════════════════════╝
+```
+
+---
+
+## 🔧 Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+### Backend
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![RESTful_API](https://img.shields.io/badge/REST_API-009688?style=flat-square)
+
+### Frontend
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react)
+![AsyncStorage](https://img.shields.io/badge/AsyncStorage-000000?style=flat-square)
+![Google_Maps_API](https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps)
+
+### AI & APIs
+![OpenAI](https://img.shields.io/badge/OpenAI_GPT4-412991?style=flat-square&logo=openai&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter_AI-FF6B35?style=flat-square)
+![Google_Street_View](https://img.shields.io/badge/Google_StreetView-4285F4?style=flat-square)
+
+### DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway)
+![VS_Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode)
+
+---
+
+## 📊 Current Projects
+
+### 🌍 AI Tourism App - Pakistan VR/AR Explorer
+> Transform how people explore Pakistan through immersive technology
+
+**Tech:** React Native | Flask | PostgreSQL | GPT-4o-mini | Google Maps Street View
+
+**Features:**
+- 🏛️ VR exploration of 84+ Pakistani landmarks
+- 📸 AI-powered landmark detection from photos
+- 🤖 Historical context via GPT-4o-mini
+- 📱 Mobile-first responsive design
+- 🔐 User authentication & admin dashboard
+
+**Status:** 🚀 Live on Railway | [Explore Project](https://github.com/mhmdhnan2025-cell/AI_TourismApp)
+
+---
+
+## 🎯 What I'm Working On
+
+- ✍️ Building **full-stack mobile applications** with React Native
+- 🤖 Integrating **AI/ML APIs** (OpenRouter, GPT-4o-mini)
+- 🗺️ Mastering **Google Maps integration** & Street View
+- 📊 Learning **advanced database design** with PostgreSQL
+- 🚀 Deploying on **Railway** with CI/CD automation
+
+---
+
+## 📈 GitHub Stats
+
 <div align="center">
 
-# 👋 Hi, I'm Hannan Sheikh
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhmdhnan2025-cell&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=30&duration=3500&pause=1000&color=00FF94&center=true&vCenter=true&width=700&lines=Software+Engineer;AI+Mobile+App+Developer;React+Native+Developer;Building+the+Future+with+AI;Open+Source+Enthusiast" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdhnan2025-cell&theme=dark&hide_border=true&layout=compact)
 
-### 🚀 Software Engineer • AI Mobile App Developer • React Native Developer
-
-<img src="https://komarev.com/ghpvc/?username=mhmdhnan2025-cell&label=Profile%20Views&color=00C472&style=for-the-badge" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mhmdhnan2025-cell&theme=dark&hide_border=true)
 
 </div>
 
 ---
 
-# 💫 About Me
+## 💡 Skills Breakdown
 
-💻 Final Year **Software Engineering Student**
+### Backend Development
+- Flask REST APIs
+- PostgreSQL database design
+- Authentication (JWT, Bcrypt)
+- Error handling & logging
+- CORS & security
 
-📱 Building high-performance **Android & iOS Apps**
+### Mobile Development
+- React Native components
+- React Navigation
+- AsyncStorage persistence
+- Image handling & camera integration
+- Responsive UI design
 
-🤖 Passionate about **Artificial Intelligence, LLMs & AI Agents**
+### AI Integration
+- OpenRouter API integration
+- GPT-4o-mini prompting
+- Image analysis with vision models
+- Prompt engineering
 
-⚛️ Specialized in **React Native** development
-
-🐍 Developing scalable **Python Flask APIs**
-
-☁️ Working with **Firebase, PostgreSQL & Cloud**
-
-🚀 Learning **System Design, RAG, Vector Databases & DevOps**
-
-🌍 Dream: Build an international AI startup from Pakistan
-
----
-
-# 🔭 Currently Working On
-
-- 🤖 AI Mobile Applications
-- 📱 React Native Apps
-- 🧠 AI Agents
-- 📚 Retrieval-Augmented Generation (RAG)
-- ⚡ Large Language Model Integrations
-- 🌍 Intelligent Software Products
-
----
-
-# 🌱 Currently Learning
-
-- Advanced React Native
-- AI Agents
-- LangChain
-- LlamaIndex
-- Vector Databases
-- Docker
-- Kubernetes
-- AWS
-- System Design
-- CI/CD
+### Problem Solving
+- Git recovery (`git reset`, `git revert`)
+- API debugging & error handling
+- Performance optimization
+- Cross-platform debugging
 
 ---
 
-# 💼 Tech Stack
+## 🏆 Achievements
 
-### 📱 Mobile
-
-<p>
-<img src="https://skillicons.dev/icons?i=react"/>
-<img src="https://skillicons.dev/icons?i=javascript"/>
-<img src="https://skillicons.dev/icons?i=typescript"/>
-<img src="https://skillicons.dev/icons?i=firebase"/>
-</p>
-
-### 🤖 AI
-
-<p>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Llama-0088FF?style=for-the-badge"/>
-</p>
-
-### ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=python"/>
-<img src="https://skillicons.dev/icons?i=flask"/>
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-<img src="https://skillicons.dev/icons?i=express"/>
-</p>
-
-### 🗄 Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres"/>
-<img src="https://skillicons.dev/icons?i=firebase"/>
-<img src="https://skillicons.dev/icons?i=supabase"/>
-<img src="https://skillicons.dev/icons?i=mysql"/>
-</p>
-
-### 🌐 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html"/>
-<img src="https://skillicons.dev/icons?i=css"/>
-<img src="https://skillicons.dev/icons?i=js"/>
-<img src="https://skillicons.dev/icons?i=react"/>
-</p>
-
-### ☁️ DevOps & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git"/>
-<img src="https://skillicons.dev/icons?i=github"/>
-<img src="https://skillicons.dev/icons?i=docker"/>
-<img src="https://skillicons.dev/icons?i=vscode"/>
-<img src="https://skillicons.dev/icons?i=postman"/>
-<img src="https://skillicons.dev/icons?i=figma"/>
-</p>
+```
+✅ Built full-stack AI Tourism App from scratch
+✅ Deployed Flask backend to Railway (auto-scaling)
+✅ Integrated Google Maps Street View in React Native
+✅ Implemented AI landmark detection system
+✅ Debugged and fixed OpenRouter API integration
+✅ Created responsive mobile UI for 84+ locations
+✅ Managed complex Git workflows & recovery
+```
 
 ---
 
-# 🚀 Featured Projects
+## 📚 Learning Journey
 
-### 🌍 AI Tourism App
-> AI-powered tourism platform with authentication, bookings, admin dashboard, PostgreSQL, Flask & React Native.
+**2024-2025:**
+- Mobile app development (React Native)
+- Backend with Flask & PostgreSQL
+- AI/ML API integration
+- Cloud deployment (Railway)
+- Full-stack architecture
 
----
-
-### 📖 Fairy Tales AI
-
-AI Story Generator powered by Large Language Models for children.
-
----
-
-### 🤖 AI Chatbot
-
-Modern conversational AI assistant using LLM APIs.
+**Currently Mastering:**
+- Advanced React Native patterns
+- AI prompt engineering
+- Database optimization
+- DevOps & CI/CD
 
 ---
 
-### 🍔 Restaurant App
+## 🤝 Open to Collaboration
 
-React Native + Redux + Firebase food ordering application.
+I'm interested in:
+- 🚀 **Full-stack mobile projects** using React Native
+- 🤖 **AI-powered applications** with LLMs
+- 🌐 **Location-based services** (Maps, Geolocation)
+- 📱 **Cross-platform development**
+- 🔒 **Security-focused applications**
 
----
-
-### 🛒 UrbanCart
-
-Complete E-Commerce Store built with C# .NET.
-
----
-
-### 🎮 AI Gaming Tournament System
-
-Tournament Management System built with React.
+**Let's build something amazing together!** 💪
 
 ---
 
+## 📬 Connect With Me
 
-# 📊 GitHub Analytics
+- 📧 **Email:** mhmdhnan2025@gmail.com
+- 🐙 **GitHub:** [@mhmdhnan2025-cell](https://github.com/mhmdhnan2025-cell)
+- 💼 **LinkedIn:** [Hannan](https://linkedin.com/in/hannan)
+- 🎯 **Portfolio:** [Coming Soon]
+
+---
+
+## 💬 Fun Facts
+
+```javascript
+// About Me
+const hannan = {
+  location: "Jalalpur Jattan, Punjab 🇵🇰",
+  currentlyLearning: ["Advanced React Native", "AI Integration", "DevOps"],
+  favoriteLanguage: "JavaScript (but Python is growing on me!)",
+  codingPhilosophyy: "Make it work → Make it beautiful → Make it fast",
+  coffeeConsumption: "∞",
+  favoriteCommand: "git push (after git reset!)",
+  petPeeve: "Undefined is not a function"
+};
+```
+
+---
+
+## 📊 Contribution Graph
+
+Feel free to explore my repositories and contributions. I'm always working on something new!
+
+### Recent Activity
+- 🔥 Debugging Flask endpoints
+- 🚀 Deploying to Railway
+- 📱 Building React Native UIs
+- 🤖 Integrating AI APIs
+
+---
+
+```
+╔═══════════════════════════════════════════════════════════╗
+║                                                           ║
+║   🌟 "Code is poetry written for machines and humans"    ║
+║                                                           ║
+║        Let's build the future, one line at a time        ║
+║                                                           ║
+╚═══════════════════════════════════════════════════════════╝
+```
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mhmdhnan2025-cell&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+**Thanks for visiting! Drop a ⭐ if you find my work interesting!**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhmdhnan2025-cell&show_icons=true&theme=tokyonight&hide_border=true)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mhmdhnan2025-cell.mhmdhnan2025-cell)
 
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-[<img src="https://streak-stats.demolab.com?user=mhmdhnan2025-cell&theme=tokyonight&hide_border=true"/>](https://streak-stats.demolab.com?user=mhmdhnan2025-cell)
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mhmdhnan2025-cell&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mhmdhnan2025-cell&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://github.com/mhmdhnan2025-cell/mhmdhnan2025-cell/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="mailto:mhmdhnan2023@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/hannan-sheikh-9bb5282a4/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/mhmdhnan2025-cell">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.fiverr.com/m_hannan24">
-<img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
-</a>
-
-<a href="YOUR_PORTFOLIO_LINK">
-<img src="https://img.shields.io/badge/Portfolio-00C472?style=for-the-badge"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-## ⚡ Favorite Quote
-
-> **"Dream so big that your code changes the world." 🚀**
-
-⭐ From **Hannan Sheikh**
+Made with ❤️ by Hannan | Last Updated: July 2026
 
 </div>
