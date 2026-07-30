@@ -186,9 +186,9 @@ Goal:
 
 # 🐍 Contribution Snake
 
-<p align="center">
+
 ![snake gif](https://raw.githubusercontent.com/mhmdhnan2025-cell/mhmdhnan2025-cell/output/github-snake-dark.svg)
-</p>
+
 
 ---
 
