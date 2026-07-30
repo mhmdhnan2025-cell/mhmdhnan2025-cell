@@ -1,140 +1,157 @@
-<!-- ========================= -->
-<!--      ANIMATED HEADER      -->
-<!-- ========================= -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00C472,100:00FF94&text=Hannan%20Sheikh&fontColor=ffffff&fontSize=65&fontAlignY=40&desc=Software%20Engineer%20•%20AI%20Mobile%20App%20Developer&descAlignY=62&animation=fadeIn"/>
+# 👋 Hi, I'm Hannan Sheikh
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Software+Engineer;AI+Mobile+App+Developer;React+Native+Developer;Building+Intelligent+Applications;Learning+AI+Agents+%26+LLMs;Always+Building+Something+Cool+%F0%9F%9A%80)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=30&duration=3500&pause=1000&color=00FF94&center=true&vCenter=true&width=700&lines=Software+Engineer;AI+Mobile+App+Developer;React+Native+Developer;Building+the+Future+with+AI;Open+Source+Enthusiast" />
 
-<img src="https://komarev.com/ghpvc/?username=Bskbskbsks&style=for-the-badge&color=00C472"/>
+### 🚀 Software Engineer • AI Mobile App Developer • React Native Developer
+
+<img src="https://komarev.com/ghpvc/?username=mhmdhnan2025-cell&label=Profile%20Views&color=00C472&style=for-the-badge" />
 
 </div>
 
 ---
 
-# 👋 Hey, I'm Hannan Sheikh
+# 💫 About Me
 
-🚀 **Software Engineering Student** passionate about building **AI-powered mobile applications**, scalable backend systems, and modern software products.
+💻 Final Year **Software Engineering Student**
 
-I enjoy transforming ambitious ideas into polished applications by combining **clean architecture**, **beautiful UI**, and **Artificial Intelligence**.
+📱 Building high-performance **Android & iOS Apps**
 
----
+🤖 Passionate about **Artificial Intelligence, LLMs & AI Agents**
 
-# ⚡ About Me
+⚛️ Specialized in **React Native** development
 
-```yaml
-Name: Hannan Sheikh
-Location: Pakistan 🇵🇰
-Degree: BS Software Engineering
-Focus:
-  - Mobile App Development
-  - Artificial Intelligence
-  - Backend Development
-  - System Design
+🐍 Developing scalable **Python Flask APIs**
 
-Currently Working On:
-  - AI Mobile Applications
-  - LLM Integrations
-  - AI Agents
-  - React Native Apps
+☁️ Working with **Firebase, PostgreSQL & Cloud**
 
-Currently Learning:
-  - RAG
-  - Vector Databases
-  - Cloud Architecture
-  - Advanced AI Systems
+🚀 Learning **System Design, RAG, Vector Databases & DevOps**
 
-Goal:
-  Build world-class AI products used by millions.
-```
+🌍 Dream: Build an international AI startup from Pakistan
 
 ---
 
-# 🛠 Tech Arsenal
+# 🔭 Currently Working On
 
-### Languages
+- 🤖 AI Mobile Applications
+- 📱 React Native Apps
+- 🧠 AI Agents
+- 📚 Retrieval-Augmented Generation (RAG)
+- ⚡ Large Language Model Integrations
+- 🌍 Intelligent Software Products
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced React Native
+- AI Agents
+- LangChain
+- LlamaIndex
+- Vector Databases
+- Docker
+- Kubernetes
+- AWS
+- System Design
+- CI/CD
+
+---
+
+# 💼 Tech Stack
+
+### 📱 Mobile
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=js,python,cpp,cs,html,css,sql"/>
-
+<img src="https://skillicons.dev/icons?i=react"/>
+<img src="https://skillicons.dev/icons?i=javascript"/>
+<img src="https://skillicons.dev/icons?i=typescript"/>
+<img src="https://skillicons.dev/icons?i=firebase"/>
 </p>
 
-### Mobile Development
+### 🤖 AI
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=react,firebase"/>
-
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Llama-0088FF?style=for-the-badge"/>
 </p>
 
-- React Native
-- Android
-- REST APIs
-
----
-
-### Backend
+### ⚙️ Backend
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=flask,nodejs"/>
-
+<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://skillicons.dev/icons?i=flask"/>
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+<img src="https://skillicons.dev/icons?i=express"/>
 </p>
 
-- Flask
-- Python APIs
-- Authentication
-- Cloudinary
-- PostgreSQL
-
----
-
-### Database
+### 🗄 Database
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=postgres,firebase,supabase"/>
-
+<img src="https://skillicons.dev/icons?i=postgres"/>
+<img src="https://skillicons.dev/icons?i=firebase"/>
+<img src="https://skillicons.dev/icons?i=supabase"/>
+<img src="https://skillicons.dev/icons?i=mysql"/>
 </p>
 
----
-
-### Tools
+### 🌐 Frontend
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman"/>
-
+<img src="https://skillicons.dev/icons?i=html"/>
+<img src="https://skillicons.dev/icons?i=css"/>
+<img src="https://skillicons.dev/icons?i=js"/>
+<img src="https://skillicons.dev/icons?i=react"/>
 </p>
 
----
+### ☁️ DevOps & Tools
 
-# 🤖 AI Stack
-
-- 🧠 Large Language Models
-- 🤖 AI Agents
-- 🔥 Prompt Engineering
-- 📚 Retrieval-Augmented Generation
-- 🔎 Embeddings
-- 🧩 Vector Databases
-- ⚡ AI API Integrations
+<p>
+<img src="https://skillicons.dev/icons?i=git"/>
+<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=docker"/>
+<img src="https://skillicons.dev/icons?i=vscode"/>
+<img src="https://skillicons.dev/icons?i=postman"/>
+<img src="https://skillicons.dev/icons?i=figma"/>
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 🌍 AI Tourism App | AI-powered tourism mobile application |
-| 📖 Fairy Tales AI | AI story generator for children |
-| 🤖 AI Chatbot Assistant | Intelligent conversational chatbot |
-| 🍔 Restaurant App | Food ordering app using React Native |
-| 🛒 UrbanCart | E-Commerce system built with .NET |
-| 🎮 AI Gaming Tournament | Gaming management platform |
-| 🌐 Portfolio Website | Modern animated developer portfolio |
+### 🌍 AI Tourism App
+> AI-powered tourism platform with authentication, bookings, admin dashboard, PostgreSQL, Flask & React Native.
+
+---
+
+### 📖 Fairy Tales AI
+
+AI Story Generator powered by Large Language Models for children.
+
+---
+
+### 🤖 AI Chatbot
+
+Modern conversational AI assistant using LLM APIs.
+
+---
+
+### 🍔 Restaurant App
+
+React Native + Redux + Firebase food ordering application.
+
+---
+
+### 🛒 UrbanCart
+
+Complete E-Commerce Store built with C# .NET.
+
+---
+
+### 🎮 AI Gaming Tournament System
+
+Tournament Management System built with React.
 
 ---
 
@@ -142,9 +159,9 @@ Goal:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Bskbskbsks&show_icons=true&theme=transparent&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mhmdhnan2025-cell&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bskbskbsks&layout=compact&theme=transparent&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdhnan2025-cell&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -154,7 +171,7 @@ Goal:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Bskbskbsks&theme=transparent&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=mhmdhnan2025-cell&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -164,7 +181,7 @@ Goal:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bskbskbsks&theme=github-compact&hide_border=true&color=00C472&line=00FF94&point=00FF94"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mhmdhnan2025-cell&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -174,7 +191,7 @@ Goal:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Bskbskbsks&theme=matrix&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mhmdhnan2025-cell&theme=algolia&column=4&margin-w=15&margin-h=15"/>
 
 </div>
 
@@ -182,46 +199,48 @@ Goal:
 
 # 🐍 Contribution Snake
 
-<p align="center">
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/Bskbskbsks/Bskbskbsks/output/github-contribution-grid-snake-dark.svg"/>
+![Snake animation](https://github.com/mhmdhnan2025-cell/mhmdhnan2025-cell/blob/output/github-contribution-grid-snake-dark.svg)
 
-</p>
+</div>
 
 ---
 
-# 🌎 Connect With Me
+# 📫 Connect With Me
 
 <p align="center">
 
 <a href="mailto:mhmdhnan2023@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/hannan-sheikh-9bb5282a4/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://github.com/Bskbskbsks">
-<img src="https://skillicons.dev/icons?i=github"/>
+<a href="https://github.com/mhmdhnan2025-cell">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.fiverr.com/m_hannan24">
+<img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_LINK">
+<img src="https://img.shields.io/badge/Portfolio-00C472?style=for-the-badge"/>
 </a>
 
 </p>
-
----
-
-# 💭 Favorite Quote
-
-> **"Great software isn't just written. It's engineered with vision."**
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+## ⚡ Favorite Quote
 
-*"Building the future, one commit at a time."* 🚀
+> **"Dream so big that your code changes the world." 🚀**
+
+⭐ From **Hannan Sheikh**
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00C472,100:00FF94"/>
