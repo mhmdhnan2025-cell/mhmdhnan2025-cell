@@ -1,218 +1,227 @@
-# 💻 Hannan | Full-Stack Developer & AI Enthusiast
+<!-- ========================= -->
+<!--      ANIMATED HEADER      -->
+<!-- ========================= -->
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║  🚀 Building AI-powered mobile apps | React Native 🔥   ║
-║  🌍 Open-source contributor | Python & JavaScript hacker║
-║  🎯 Currently crafting: AI Tourism App (Pakistan VR/AR)  ║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00C472,100:00FF94&text=Hannan%20Sheikh&fontColor=ffffff&fontSize=65&fontAlignY=40&desc=Software%20Engineer%20•%20AI%20Mobile%20App%20Developer&descAlignY=62&animation=fadeIn"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Software+Engineer;AI+Mobile+App+Developer;React+Native+Developer;Building+Intelligent+Applications;Learning+AI+Agents+%26+LLMs;Always+Building+Something+Cool+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=Bskbskbsks&style=for-the-badge&color=00C472"/>
+
+</div>
+
+---
+
+# 👋 Hey, I'm Hannan Sheikh
+
+🚀 **Software Engineering Student** passionate about building **AI-powered mobile applications**, scalable backend systems, and modern software products.
+
+I enjoy transforming ambitious ideas into polished applications by combining **clean architecture**, **beautiful UI**, and **Artificial Intelligence**.
+
+---
+
+# ⚡ About Me
+
+```yaml
+Name: Hannan Sheikh
+Location: Pakistan 🇵🇰
+Degree: BS Software Engineering
+Focus:
+  - Mobile App Development
+  - Artificial Intelligence
+  - Backend Development
+  - System Design
+
+Currently Working On:
+  - AI Mobile Applications
+  - LLM Integrations
+  - AI Agents
+  - React Native Apps
+
+Currently Learning:
+  - RAG
+  - Vector Databases
+  - Cloud Architecture
+  - Advanced AI Systems
+
+Goal:
+  Build world-class AI products used by millions.
 ```
 
 ---
 
-## 🔧 Tech Stack
+# 🛠 Tech Arsenal
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-### Backend
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![RESTful_API](https://img.shields.io/badge/REST_API-009688?style=flat-square)
+<p>
 
-### Frontend
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react)
-![AsyncStorage](https://img.shields.io/badge/AsyncStorage-000000?style=flat-square)
-![Google_Maps_API](https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps)
+<img src="https://skillicons.dev/icons?i=js,python,cpp,cs,html,css,sql"/>
 
-### AI & APIs
-![OpenAI](https://img.shields.io/badge/OpenAI_GPT4-412991?style=flat-square&logo=openai&logoColor=white)
-![OpenRouter](https://img.shields.io/badge/OpenRouter_AI-FF6B35?style=flat-square)
-![Google_Street_View](https://img.shields.io/badge/Google_StreetView-4285F4?style=flat-square)
-
-### DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway)
-![VS_Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode)
-
----
-
-## 📊 Current Projects
-
-### 🌍 AI Tourism App - Pakistan VR/AR Explorer
-> Transform how people explore Pakistan through immersive technology
-
-**Tech:** React Native | Flask | PostgreSQL | GPT-4o-mini | Google Maps Street View
-
-**Features:**
-- 🏛️ VR exploration of 84+ Pakistani landmarks
-- 📸 AI-powered landmark detection from photos
-- 🤖 Historical context via GPT-4o-mini
-- 📱 Mobile-first responsive design
-- 🔐 User authentication & admin dashboard
-
-**Status:** 🚀 Live on Railway | [Explore Project](https://github.com/mhmdhnan2025-cell/AI_TourismApp)
-
----
-
-## 🎯 What I'm Working On
-
-- ✍️ Building **full-stack mobile applications** with React Native
-- 🤖 Integrating **AI/ML APIs** (OpenRouter, GPT-4o-mini)
-- 🗺️ Mastering **Google Maps integration** & Street View
-- 📊 Learning **advanced database design** with PostgreSQL
-- 🚀 Deploying on **Railway** with CI/CD automation
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhmdhnan2025-cell&theme=dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/mhmdhnan2025-cell)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdhnan2025-cell&theme=dark&hide_border=true&layout=compact&langs_count=8)](https://github.com/mhmdhnan2025-cell)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mhmdhnan2025-cell&theme=dark&hide_border=true)](https://github.com/mhmdhnan2025-cell)
-
-</div>
-
----
-
-## 💡 Skills Breakdown
-
-### Backend Development
-- Flask REST APIs
-- PostgreSQL database design
-- Authentication (JWT, Bcrypt)
-- Error handling & logging
-- CORS & security
+</p>
 
 ### Mobile Development
-- React Native components
-- React Navigation
-- AsyncStorage persistence
-- Image handling & camera integration
-- Responsive UI design
 
-### AI Integration
-- OpenRouter API integration
-- GPT-4o-mini prompting
-- Image analysis with vision models
-- Prompt engineering
+<p>
 
-### Problem Solving
-- Git recovery (`git reset`, `git revert`)
-- API debugging & error handling
-- Performance optimization
-- Cross-platform debugging
+<img src="https://skillicons.dev/icons?i=react,firebase"/>
+
+</p>
+
+- React Native
+- Android
+- REST APIs
 
 ---
 
-## 🏆 Achievements
+### Backend
 
-```
-✅ Built full-stack AI Tourism App from scratch
-✅ Deployed Flask backend to Railway (auto-scaling)
-✅ Integrated Google Maps Street View in React Native
-✅ Implemented AI landmark detection system
-✅ Debugged and fixed OpenRouter API integration
-✅ Created responsive mobile UI for 84+ locations
-✅ Managed complex Git workflows & recovery
-```
+<p>
 
----
+<img src="https://skillicons.dev/icons?i=flask,nodejs"/>
 
-## 📚 Learning Journey
+</p>
 
-**2024-2025:**
-- Mobile app development (React Native)
-- Backend with Flask & PostgreSQL
-- AI/ML API integration
-- Cloud deployment (Railway)
-- Full-stack architecture
-
-**Currently Mastering:**
-- Advanced React Native patterns
-- AI prompt engineering
-- Database optimization
-- DevOps & CI/CD
+- Flask
+- Python APIs
+- Authentication
+- Cloudinary
+- PostgreSQL
 
 ---
 
-## 🤝 Open to Collaboration
+### Database
 
-I'm interested in:
-- 🚀 **Full-stack mobile projects** using React Native
-- 🤖 **AI-powered applications** with LLMs
-- 🌐 **Location-based services** (Maps, Geolocation)
-- 📱 **Cross-platform development**
-- 🔒 **Security-focused applications**
+<p>
 
-**Let's build something amazing together!** 💪
+<img src="https://skillicons.dev/icons?i=postgres,firebase,supabase"/>
+
+</p>
 
 ---
 
-## 📬 Connect With Me
+### Tools
 
-- 📧 **Email:** mhmdhnan2025@gmail.com
-- 🐙 **GitHub:** [@mhmdhnan2025-cell](https://github.com/mhmdhnan2025-cell)
-- 💼 **LinkedIn:** [Hannan](https://linkedin.com/in/hannan)
-- 🎯 **Portfolio:** [Coming Soon]
+<p>
 
----
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman"/>
 
-## 💬 Fun Facts
-
-```javascript
-// About Me
-const hannan = {
-  location: "Jalalpur Jattan, Punjab 🇵🇰",
-  currentlyLearning: ["Advanced React Native", "AI Integration", "DevOps"],
-  favoriteLanguage: "JavaScript (but Python is growing on me!)",
-  codingPhilosophyy: "Make it work → Make it beautiful → Make it fast",
-  coffeeConsumption: "∞",
-  favoriteCommand: "git push (after git reset!)",
-  petPeeve: "Undefined is not a function"
-};
-```
+</p>
 
 ---
 
-## 📊 Contribution Graph
+# 🤖 AI Stack
 
-Feel free to explore my repositories and contributions. I'm always working on something new!
-
-### Recent Activity
-- 🔥 Debugging Flask endpoints
-- 🚀 Deploying to Railway
-- 📱 Building React Native UIs
-- 🤖 Integrating AI APIs
+- 🧠 Large Language Models
+- 🤖 AI Agents
+- 🔥 Prompt Engineering
+- 📚 Retrieval-Augmented Generation
+- 🔎 Embeddings
+- 🧩 Vector Databases
+- ⚡ AI API Integrations
 
 ---
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║   🌟 "Code is poetry written for machines and humans"    ║
-║                                                           ║
-║        Let's build the future, one line at a time        ║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
-```
+# 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🌍 AI Tourism App | AI-powered tourism mobile application |
+| 📖 Fairy Tales AI | AI story generator for children |
+| 🤖 AI Chatbot Assistant | Intelligent conversational chatbot |
+| 🍔 Restaurant App | Food ordering app using React Native |
+| 🛒 UrbanCart | E-Commerce system built with .NET |
+| 🎮 AI Gaming Tournament | Gaming management platform |
+| 🌐 Portfolio Website | Modern animated developer portfolio |
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-**Thanks for visiting! Drop a ⭐ if you find my work interesting!**
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Bskbskbsks&show_icons=true&theme=transparent&hide_border=true"/>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mhmdhnan2025-cell.mhmdhnan2025-cell)
-
-Made with ❤️ by Hannan | Last Updated: July 2026
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bskbskbsks&layout=compact&theme=transparent&hide_border=true"/>
 
 </div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Bskbskbsks&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bskbskbsks&theme=github-compact&hide_border=true&color=00C472&line=00FF94&point=00FF94"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Bskbskbsks&theme=matrix&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Bskbskbsks/Bskbskbsks/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🌎 Connect With Me
+
+<p align="center">
+
+<a href="mailto:mhmdhnan2023@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/hannan-sheikh-9bb5282a4/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/Bskbskbsks">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+---
+
+# 💭 Favorite Quote
+
+> **"Great software isn't just written. It's engineered with vision."**
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Building the future, one commit at a time."* 🚀
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00C472,100:00FF94"/>
