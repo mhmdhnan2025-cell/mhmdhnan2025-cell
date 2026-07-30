@@ -130,7 +130,10 @@ Goal:
 
 # 💭 Favorite Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+<div style="text-align:center">
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+</div>
+
 
 ---
 
