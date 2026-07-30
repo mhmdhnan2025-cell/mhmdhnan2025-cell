@@ -138,13 +138,19 @@ Goal:
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mhmdhnan2025-cell&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhmdhnan2025-cell&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/mhmdhnan2025-cell)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mhmdhnan2025-cell&theme=tokyonight&no-frame=true&margin-w=10" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mhmdhnan2025-cell/mhmdhnan2025-cell/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
