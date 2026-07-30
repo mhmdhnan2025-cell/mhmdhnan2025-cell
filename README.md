@@ -126,12 +126,6 @@ Goal:
 
 </p>
 
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=mhmdhnan2025-cell&theme=onedark&no-frame=true)
-
-</div>
-
 # 💭 Favorite Quote
 
 
