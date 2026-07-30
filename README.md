@@ -186,11 +186,9 @@ Goal:
 
 # 🐍 Contribution Snake
 
-<div align="center">
-
-![Snake animation](https://github.com/mhmdhnan2025-cell/mhmdhnan2025-cell/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mhmdhnan2025-cell/mhmdhnan2025-cell/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
