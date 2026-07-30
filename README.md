@@ -71,15 +71,15 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhmdhnan2025-cell&theme=dark&show_icons=true&hide_border=true&count_private=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhmdhnan2025-cell&theme=dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/mhmdhnan2025-cell)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdhnan2025-cell&theme=dark&hide_border=true&layout=compact)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdhnan2025-cell&theme=dark&hide_border=true&layout=compact&langs_count=8)](https://github.com/mhmdhnan2025-cell)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mhmdhnan2025-cell&theme=dark&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mhmdhnan2025-cell&theme=dark&hide_border=true)](https://github.com/mhmdhnan2025-cell)
 
 </div>
 
