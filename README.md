@@ -125,13 +125,10 @@ Goal:
 </a>
 
 </p>
----
-
-## 🏆 GitHub Trophies
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mhmdhnan2025-cell&theme=tokyonight&no-frame=true&row=2&column=4)
+![trophy](https://github-profile-trophy.vercel.app/?username=mhmdhnan2025-cell&theme=onedark&no-frame=true)
 
 </div>
 
